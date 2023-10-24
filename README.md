@@ -1,4 +1,6 @@
-# Micromouse_Proposal_Example
+# Micromouse_Proposal_Example  
+
+Spencer
 
 ## Overview
 
