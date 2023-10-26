@@ -26,7 +26,7 @@ This should be a more detailed explanation of how your hardware will work. This 
 - Battery(6 - 20V)(Probably 9V is safe), 
 - Sensors: [Proximity, Gyroscope(Idk), Motor]
     - Proximity = Can be used to determine how far a micromouse is from a wall. Can detect "wall" without bumping into a wall. 
-    - Gyroscope = Helps detect the angle of rotation
+    - Gyroscope/Magnetometer(Still Narrowing Down) = Helps detect the angle of rotation
     - Motor = To help the micromouse move(Article suggests 200RPM - 400RPM).(Higher RPM = Faster but harder to control)
     - Diameter of Wheel: 9.5mm(Small) but we'll see what size we get.
     - Battery =
@@ -53,9 +53,9 @@ Please include a flowchart of your system design. This should include the hardwa
 
 ### Custom Creation
 
-1. Wheels - 3D printed. 
+1. Wheels - 3D printed. - 4 Wheels 
 3. Chassis - 3D printed.
-4. Compute Casing for Raspberry Pi and battery - 3D printed.
+4. Compute Casing for Arduino and battery - 3D printed.
 
 ### Parts on Hand
 
