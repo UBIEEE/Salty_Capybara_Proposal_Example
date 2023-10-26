@@ -13,9 +13,9 @@ Arduino(Platform IO), C++. GUI(I'll discuss this with Devan).
 - We'll discuss the sensors later 
 - Sensors have multiple inputs to the code such as bool,double,int,str types and what not. I just have to figure out what types come out of each. 
 Sensors to code: 
-- Proximity: Double
-- Gyroscope
-- Motor
+- Proximity: Double?
+- Gyroscope: Double? To determine how much it should rotate by
+- Motor: Probably int to limit the speed. 
 - 
 
 ### Hardware Plan
@@ -28,7 +28,9 @@ This should be a more detailed explanation of how your hardware will work. This 
     - Proximity = Can be used to determine how far a micromouse is from a wall. Can detect "wall" without bumping into a wall. 
     - Gyroscope = Helps detect the angle of rotation
     - Motor = To help the micromouse move(Article suggests 200RPM - 400RPM).(Higher RPM = Faster but harder to control)
-    - Diameter of Wheel: 9.5cm 
+    - Diameter of Wheel: 9.5mm(Small) but we'll see what size we get.
+    - Battery =
+    - Mode of driver break out board
 
 ## Flowchart of System Design
 
