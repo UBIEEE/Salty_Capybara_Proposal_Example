@@ -23,7 +23,8 @@ This should be a more detailed explanation of how your hardware will work. This 
 
 - Arduino
 - 4 wheels, (Servo Motor? I guess), 
-- Battery(6 - 12V)(Probably 9V is safe), 
+- Battery(6 - 12V)(Probably 9V is safe),
+    - Maybe 2 of these? https://www.adafruit.com/product/1578
 - Sensors: [Proximity, Gyroscope(Idk), Motor]
     - Proximity(IR Sensors + Ultrasonic detectors) = Can be used to determine how far a micromouse is from a wall. Can detect "wall" without bumping into a wall. 
     - Gyroscope = Helps detect the angle of rotation
