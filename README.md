@@ -65,18 +65,23 @@ Please include a flowchart of your system design. This should include the hardwa
 
 ## 3D Model
 
-This should be a series of images from multiple angles of a to scale model of your robot that includes all major physical components (small components such as fundamental circuit components and wires can be omitted). You may use whatever method of creating this model as long as it is to scale. We recommend using 3D CAD programs such as Autodesk Inventor or Fusion 360. You may also use physical prototyping methods such as foam-core, cardboard, clay, or even Lego. The most important thing is that you get a real-world representation of the actual size of your components in relation to each other. As such, this model does not need to be detailed, as long as the size and shape of parts are correct. 
+This should be a series of images from multiple angles of a to scale model of your robot that includes all major physical components (small components such as fundamental circuit components and wires can be omitted). You may use whatever method of creating this model as long as it is to scale. We recommend using 3D CAD programs such as Autodesk Inventor or Fusion 360. You may also use physical prototyping methods such as foam-core, cardboard, clay, or even Lego. The most important thing is that you get a real-world representation of the actual size of your components in relation to each other. As such, this model does not need to be detailed, as long as the size and shape of parts are correct.  - **Hold this off for later as this will take time**
 
 ## Teammates and Responsibilities
 
+Caleb - CAD Modeling + Wiring. He will be in charge of doing the 3D-Modeling for the Arduino, Chasis and Battery. After he is done with this, he will be focusing on the wiring of the breadboard.  
+Spencer - 
+Ethan - I will be researching what algorithms will be fitting the Micrmouse the best. 
+Jonathan(Himothy) - 
+Dewey - (Hes not here he's filling this out on his own)
+
 ### Name 1
-Each name should include a brief one paragraph descriptions of the teammates primary responsibilities. 
 
 ### Name 2     
 Will manage the power supply circuitry and the motor control circuitry. Responsible for ensuring that the Arduino and motor controllers are both properly powered from the battery but are on separate circuits with the proper voltages and currents. 
 
 ### Name 3
-...
+
 
 ## Milestones
 
