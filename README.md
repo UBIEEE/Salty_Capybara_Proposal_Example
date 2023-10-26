@@ -9,10 +9,26 @@ The overview should be a general description of your project. This should be a h
 ### Software Plan
 This should be a more detailed explanation of how your software will work. This should include the programming language(s) you will be using, any libraries, what IDE(s) you will be working with, your approach for testing your software, and how you will be using the inputs from your hardware to complete your task.
 
-Arduino, C++, 
+Arduino(Platform IO), C++. GUI(I'll discuss this with Devan). 
+- We'll discuss the sensors later 
+- Sensors have multiple inputs to the code such as bool,double,int,str types and what not. I just have to figure out what types come out of each. 
+Sensors to code: 
+- Proximity: Double
+- Gyroscope
+- Motor
+- 
 
 ### Hardware Plan
 This should be a more detailed explanation of how your hardware will work. This should include the electrical requirements of all the individual components of your system and how those requirements will be managed. This should also include a detailed explanation of the hardware components of your system and how they will interact with each other. This should include a detailed explanation of the sensors you will be using, how they work, and how you will be using them to complete your task. This should also include specifications of your components, including the voltage/current ranges they support as well as their physical dimensions (when applicable). 
+
+- Arduino
+- 4 wheels, (Servo Motor? I guess), 
+- Battery(6 - 20V)(Probably 9V is safe), 
+- Sensors: [Proximity, Gyroscope(Idk), Motor]
+    - Proximity = Can be used to determine how far a micromouse is from a wall. Can detect "wall" without bumping into a wall. 
+    - Gyroscope = Helps detect the angle of rotation
+    - Motor = To help the micromouse move(Article suggests 200RPM - 400RPM).(Higher RPM = Faster but harder to control)
+    - Diameter of Wheel: 9.5cm 
 
 ## Flowchart of System Design
 
