@@ -57,7 +57,7 @@ Please include a flowchart of your system design. This should include the hardwa
 | [Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope - STEMMA QT / Qwiic](https://www.adafruit.com/product/4438) | $11.95 | 1 | $11.95|
 | [STEMMA QT / Qwiic JST SH 4-pin to Premium Male Headers Cable - 150mm Long](https://www.adafruit.com/product/4209) | $0.95 | 2 | $1.90 |
 | [Ultrasonic Distance Sensor - 3V or 5V - HC-SR04 compatible - RCWL-1601](https://www.adafruit.com/product/4007) | $3.95 | 2 | $7.90 |
-| THIN WHITE WHEEL FOR TT DC GEARB | $1.50 | 4 | $6.00 |
+| [THIN WHITE WHEEL FOR TT DC GEARB](https://www.digikey.com/short/85b98tj9) | $1.50 | 4 | $6.00 |
 | | | **Total** | **$108.15** |
 
 ### Custom Creation
