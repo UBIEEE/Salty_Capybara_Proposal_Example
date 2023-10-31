@@ -59,7 +59,7 @@ Please include a flowchart of your system design. This should include the hardwa
 | [ARDUINO UNO R4 MINIMA](https://www.digikey.com/en/products/detail/arduino/ABX00080/20371542) | $20.00 | 1 | $20.00 |
 | [DC Gearbox Motor - "TT Motor" - 200RPM - 3 to 6VDC](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3777/8687221) | $2.95 | 4 | $11.80 |
 | [Adafruit DRV8833 DC/Stepper Motor Driver Breakout Board](https://www.adafruit.com/product/3297) | $5.95 | 2 | $11.90 |
-| [USB Li-Ion Power Bank with 2 x 5V Outputs @ 2.1A - 5000mAh](https://www.adafruit.com/product/4288) | $26.95 | 1 | $26.95 |
+| [3.7 V Lithium Polymer Battery Rechargeable (Secondary) 1.2Ah](https://www.digikey.com/en/products/detail/jauch-quartz/LP633750JH/9560990) | $13.94 | 2 | $27.88 |
 | [Adafruit VCNL4020 Proximity and Light Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/5810) | $5.95 | 2 | $11.90 |
 | [Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope - STEMMA QT / Qwiic](https://www.adafruit.com/product/4438) | $11.95 | 1 | $11.95|
 | [STEMMA QT / Qwiic JST SH 4-pin to Premium Male Headers Cable - 150mm Long](https://www.adafruit.com/product/4209) | $0.95 | 2 | $1.90 |
