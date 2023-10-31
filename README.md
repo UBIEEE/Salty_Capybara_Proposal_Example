@@ -9,7 +9,7 @@ OVERVIEW:
 We have chosen to use a 4-Wheeled single PCB Micromouse. We will integrate software and hardware through uploading our code from vscode and upload the code directly to the Arduino through a usb-A to A. We will be measuring all of these hardware voltages through Arduino which can be used to set a maximum/minimum voltage output according to the amount of voltages it can take. 
 
 List: 
-- Battery: 3.7 Volts
+- Battery: 3.7 Volts(Prone to change)
 - Proximity Sensors: 3.3 Volts or 5 Volts 
 - Ultrasonic Sensors: 3 or 5 Volts
 - Gyroscope: 3 Volts or 5 Volts
@@ -117,16 +117,19 @@ https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
 * Microcontroller can read sensor data and calculate the position of the mouse.
 * Microcontroller can run the algorithm.
 
-### Milestone Set 4: 1/10/24
+### Milestone Set 4: Over break
+* TBD: Bussin
+
+### Milestone Set 5: 1/10/24
 * Mouse can move in a straight line a stop when it reaches an obstacle.
 * Mouse can turn 90 degrees when told to by the algorithm.
 * Mouse can move for 10 minutes straight. 
 * Mouse can execute different algorithms based on user inputs from physical buttons on the mouse. 
 
-### Milestone Set 5: 1/24/24
+### Milestone Set 6: 1/24/24
 * Mouse can move through a maze randomly without hitting walls.
 
-### Milestone Set 6: 2/7/24
+### Milestone Set 7: 2/7/24
 * Mouse can solve the maze. 
 
 
