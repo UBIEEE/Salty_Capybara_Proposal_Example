@@ -3,7 +3,7 @@
 ## Overview
 We have decided on using VSCode (PlatformIO) and will be using flood fill algorithm. Circuit boards will be connected to software IDE (PlatformIO) and send data received to the IDE or receive instructions to perform.
 
-The overview should be a general description of your project. This should be a high level overview of your design decisions and how you will implement them, including detailed information on how you will handle difficulties such as software and hardware integration. This should also contain information on the hardware including references to the electrical requirements of all the individual components of your system and how those requirements will be managed. You should also discuss what kind of software you will be running, undergo a brief analysis to show you have the compute power to run your software, and discuss how the software will use the inputs your hardware gives it to complete its task. 
+The overview should be a general description of your project. This should be a high level overview of your design decisions and how you will implement them, including detailed information on how you will handle difficulties such as software and hardware integration. This should also contain information on the hardware including references to the electrical requirements of all the individual components of your system and how those requirements will be managed. You should also discuss what kind of software you will be running, undergo a brief analysis to show you have the compute power to run your software, and discuss how the software will use the inputs your hardware gives it to complete its task.
 
 
 
@@ -60,7 +60,7 @@ Please include a flowchart of your system design. This should include the hardwa
 | [Ultrasonic Distance Sensor - 3V or 5V - HC-SR04 compatible - RCWL-1601](https://www.adafruit.com/product/4007) | $3.95 | 2 | $7.90 |
 | [THIN WHITE WHEEL FOR TT DC GEARB](https://www.digikey.com/short/85b98tj9) | $1.50 | 4 | $6.00 |
 | | | **Total** | **$108.15** |
-
+    
 ### Custom Creation
 
 1. Wheels - 3D printed. - 4 Wheels 
