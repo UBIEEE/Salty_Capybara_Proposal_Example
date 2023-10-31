@@ -84,6 +84,8 @@ This should be a series of images from multiple angles of a to scale model of yo
 - Jonathan (Super Not Himothy) - Make sure hardware and software work accordingly with one another. Make sure there's clear communication between hardware and software.
 - Devan - Working with Ethan on algorithms fit micromouse. I also have knowledge of Arduino to some extent so I can help with that if needed.
 
+### IEEE Offficial Rules: 
+https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
 
 ## Milestones
 
