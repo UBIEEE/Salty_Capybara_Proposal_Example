@@ -85,7 +85,7 @@ This should be a series of images from multiple angles of a to scale model of yo
 - Caleb - CAD Modeling + Wiring. He will be in charge of doing the 3D-Modeling for the Arduino, Chasis and Battery. After he is done with this, he will be focusing on the wiring of the breadboard.  
 - Spencer - Will work with the hardware required as well as how its implemented.
 - Ethan - I will be researching what algorithms will be fitting the Micrmouse the best. I will also be trying to process the data from the Arduino to the micromouse.
-- Jonathan (Not Himothy) - Make sure hardware and software work accordingly with one another. Make sure there's clear communication between hardware and software.
+- Jonathan (Super Not Himothy) - Make sure hardware and software work accordingly with one another. Make sure there's clear communication between hardware and software.
 - Devan - Working with Ethan on algorithms fit micromouse. I also have knowledge of Arduino to some extent so I can help with that if needed.
 
 
