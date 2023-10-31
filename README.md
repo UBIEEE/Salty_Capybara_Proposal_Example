@@ -6,7 +6,12 @@ We have decided on using VSCode (PlatformIO) and will be using flood fill algori
 The overview should be a general description of your project. This should be a high level overview of your design decisions and how you will implement them, including detailed information on how you will handle difficulties such as software and hardware integration. This should also contain information on the hardware including references to the electrical requirements of all the individual components of your system and how those requirements will be managed. You should also discuss what kind of software you will be running, undergo a brief analysis to show you have the compute power to run your software, and discuss how the software will use the inputs your hardware gives it to complete its task.
 
 OVERVIEW: 
-We have chosen to use a 4-Wheeled single PCB
+We have chosen to use a 4-Wheeled single PCB Micromouse. We will integrate software and hardware through uploading our code from vscode and upload the code directly to the Arduino through a usb-A to A. 
+List: 
+- Battery: 9V
+- Proximity Sensors: 3 - 6 Volts
+- Ultrasonic Sensors: 3 - 5 Volts
+- 
 
 ### Software Plan
 This should be a more detailed explanation of how your software will work. This should include the programming language(s) you will be using, any libraries, what IDE(s) you will be working with, your approach for testing your software, and how you will be using the inputs from your hardware to complete your task.
@@ -30,7 +35,7 @@ This should be a more detailed explanation of how your hardware will work. This 
 - Battery(6 - 12V)(Probably 9V is safe),
     - Maybe 2 of these? https://www.adafruit.com/product/1578
 - Sensors: [Proximity, Gyroscope(Idk), Motor]
-    - Proximity(IR Sensors + Ultrasonic detectors) = Can be used to determine how far a micromouse is from a wall. Can detect "wall" without bumping into a wall. 
+    - Proximity(IR Sensors + Ultrasonic detectors) = Can be used to determine how far a micromouse is from a wall. Can detect "wall" without bumping into a wall. (Proximities are on the side, Ultrasonic sensors are in the front)
     - Gyroscope = Helps detect the angle of rotation
     - Motor = To help the micromouse move(Article suggests 200RPM - 400RPM).(Higher RPM = Faster but harder to control)
     - Diameter of Wheel: 9.5mm(Small) but we'll see what size we get.
@@ -55,7 +60,7 @@ Please include a flowchart of your system design. This should include the hardwa
 | [DC Gearbox Motor - "TT Motor" - 200RPM - 3 to 6VDC](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3777/8687221) | $2.95 | 4 | $11.80 |
 | [Adafruit DRV8833 DC/Stepper Motor Driver Breakout Board](https://www.adafruit.com/product/3297) | $5.95 | 2 | $11.90 |
 | [USB Li-Ion Power Bank with 2 x 5V Outputs @ 2.1A - 5000mAh](https://www.adafruit.com/product/4288) | $26.95 | 1 | $26.95 |
-| [Adafruit VCNL4020 Proximity and Light Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/5810) | $5.95 | 1 | $5.95 |
+| [Adafruit VCNL4020 Proximity and Light Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/5810) | $5.95 | 2 | $11.90 |
 | [Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope - STEMMA QT / Qwiic](https://www.adafruit.com/product/4438) | $11.95 | 1 | $11.95|
 | [STEMMA QT / Qwiic JST SH 4-pin to Premium Male Headers Cable - 150mm Long](https://www.adafruit.com/product/4209) | $0.95 | 2 | $1.90 |
 | [Ultrasonic Distance Sensor - 3V or 5V - HC-SR04 compatible - RCWL-1601](https://www.adafruit.com/product/4007) | $3.95 | 2 | $7.90 |
