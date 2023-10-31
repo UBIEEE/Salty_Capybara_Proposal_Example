@@ -10,9 +10,10 @@ The overview should be a general description of your project. This should be a h
 ### Software Plan
 This should be a more detailed explanation of how your software will work. This should include the programming language(s) you will be using, any libraries, what IDE(s) you will be working with, your approach for testing your software, and how you will be using the inputs from your hardware to complete your task.
 
-https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510
+The Algorithm we will be using(Floodfill): https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510
+Matplotlib++ Heatmap(GUI): https://github.com/alandefreitas/matplotplusplus/blob/master/docs/COMPLETE_GALLERY.md#heatmap_1
 
-Arduino(Platform IO), C++. GUI(I'll discuss this with Devan). 
+Arduino(Platform IO), C++. GUI: Can try Heatmap matplotlib. 
 - We'll discuss the sensors later 
 - Sensors have multiple inputs to the code such as bool,double,int,str types and what not. I just have to figure out what types come out of each. 
 Sensors to code: 
