@@ -60,9 +60,10 @@ Please include a flowchart of your system design. This should include the hardwa
 | [ARDUINO UNO R4 MINIMA](https://www.digikey.com/en/products/detail/arduino/ABX00080/20371542) | $20.00 | 1 | $20.00 |
 | [DC Gearbox Motor - "TT Motor" - 200RPM - 3 to 6VDC](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3777/8687221) | $2.95 | 4 | $11.80 |
 | [Adafruit DRV8833 DC/Stepper Motor Driver Breakout Board](https://www.adafruit.com/product/3297) | $5.95 | 2 | $11.90 |
-| [3.7 V Lithium Polymer Battery Rechargeable (Secondary) 1.5Ah](https://www.digikey.com/en/products/detail/mikroelektronika/MIKROE-4473/13679425) | $10.90 | 2 | $21.80 |
+| [Lithium Ion Polymer Battery - 3.7v 1200mAh](https://www.adafruit.com/product/258?gad_source=1&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6jXzDKFZ9s2u1SWslHxj_pmHKfOvDnqfYjc1EqkqUuEZbM6-pj9eD4aAlzkEALw_wcB) | $9.95 | 2 | $19.90 |
 | [JST PH 2mm 4-Pin to Male Header Cable - I2C STEMMA Cable - 200mm](https://www.adafruit.com/product/3955) | $1.50 | 2 | $3.00 |
 | [Adafruit Micro-Lipo Charger for LiPoly Batt with USB Type C Jack](https://www.adafruit.com/product/4410) | $5.95 | 1 | $5.95 |
+| [Linear Voltage Regulator IC Positive Fixed 1 Output 800mA TO-220](https://www.digikey.com/en/products/detail/stmicroelectronics/LD1117V33/586012?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-586012_sig-Cj0KCQjwy4KqBhD0ARIsAEbCt6ibgO35ZWxodiH8e7t-dVcD3Mk_iP7YyMoJ_GBVjmCk-Ivfm1AZD1EaAr--EALw_wcB&gad_source=1&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6ibgO35ZWxodiH8e7t-dVcD3Mk_iP7YyMoJ_GBVjmCk-Ivfm1AZD1EaAr--EALw_wcB) | $0.95 | 2 | $1.90 |
 | [Adafruit VCNL4020 Proximity and Light Sensor - STEMMA QT / Qwiic](https://www.adafruit.com/product/5810) | $5.95 | 2 | $11.90 |
 | [Adafruit LSM6DSOX 6 DoF Accelerometer and Gyroscope - STEMMA QT / Qwiic](https://www.adafruit.com/product/4438) | $11.95 | 1 | $11.95|
 | [STEMMA QT / Qwiic JST SH 4-pin to Premium Male Headers Cable - 150mm Long](https://www.adafruit.com/product/4209) | $0.95 | 2 | $1.90 |
