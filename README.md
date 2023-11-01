@@ -1,9 +1,7 @@
 # Salty Capybara Proposal
 
 ## Overview
-The overview should be a general description of your project. This should be a high level overview of your design decisions and how you will implement them, including detailed information on how you will handle difficulties such as software and hardware integration. This should also contain information on the hardware including references to the electrical requirements of all the individual components of your system and how those requirements will be managed. You should also discuss what kind of software you will be running, undergo a brief analysis to show you have the compute power to run your software, and discuss how the software will use the inputs your hardware gives it to complete its task.
 
-OVERVIEW: 
 We have decided on using VSCode (PlatformIO) and will be using flood fill algorithm. Circuit boards will be connected to software IDE (PlatformIO) and send data received to the IDE or receive instructions to perform. We have chosen to use a 4-Wheeled single PCB Micromouse. We will integrate software and hardware through uploading our code from vscode and upload the code directly to the Arduino through a usb-A to A. We will be measuring all of these hardware voltages through Arduino which can be used to set a maximum/minimum voltage output according to the amount of voltages it can take. 
 
 List: 
@@ -13,7 +11,6 @@ List:
 - Gyroscope: 3 Volts or 5 Volts
 - Motor: 3 - 6 VDC
 ### Software Plan
-This should be a more detailed explanation of how your software will work. This should include the programming language(s) you will be using, any libraries, what IDE(s) you will be working with, your approach for testing your software, and how you will be using the inputs from your hardware to complete your task.
 
 The Algorithm we will be using(Floodfill): https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510
 Matplotlib++ Heatmap(GUI): https://github.com/alandefreitas/matplotplusplus/blob/master/docs/COMPLETE_GALLERY.md#heatmap_1
@@ -28,7 +25,6 @@ Sensors to code:
 Extended plans: Build a micromouse simulator with only the bare minimum to hold the data and sends out the commands to the robot. (This starts in Java and tehen we will convert this into C++ later on because our skills in Java are just better).
 
 ### Hardware Plan
-This should be a more detailed explanation of how your hardware will work. This should include the electrical requirements of all the individual components of your system and how those requirements will be managed. This should also include a detailed explanation of the hardware components of your system and how they will interact with each other. This should include a detailed explanation of the sensors you will be using, how they work, and how you will be using them to complete your task. This should also include specifications of your components, including the voltage/current ranges they support as well as their physical dimensions (when applicable). 
 
 - Arduino Uno
 - Wheels: Plan on using 4 - Ordered 2.6" diameter wheels - will experiment with 3d printed wheels
@@ -42,8 +38,7 @@ This should be a more detailed explanation of how your hardware will work. This 
  - Wires will be attached to breadboard for testing but will be soldered for final mouse.
 
 ## Flowchart of System Design
-
-Please include a flowchart of your system design. This should include the hardware and software components of your system and how they interact with each other. This should be a high level overview of your system. We recommend using a flowchart design software such as [draw.io](https://app.diagrams.net/) or [Lucidchart](https://www.lucidchart.com/pages/). However, you can also use any other software or even draw it by hand and take a picture of it. Simple programs such as Google Drawings or Microsoft Paint or Microsoft Office will also work. 
+ 
 ![image](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/145487784/5baa5811-c822-4a0a-adbb-7a4d6d4d6400)
 
 
