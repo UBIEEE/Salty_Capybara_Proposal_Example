@@ -14,7 +14,8 @@ List:
 
 The Algorithm we will be using(Floodfill): https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510
 Matplotlib++ Heatmap(GUI): https://github.com/alandefreitas/matplotplusplus/blob/master/docs/COMPLETE_GALLERY.md#heatmap_1
-
+Libraries we will be using: iostream, math, arraylists. We're not familiar with C++ libraries
+Containers: <array>,<stack>/<vector>(More to come in the future)
 Arduino(Platform IO), C++. GUI: Can try Heatmap matplotlib. 
 - Sensors have multiple inputs to the code such as bool,double,int,str types and what not.
 Sensors to code: 
