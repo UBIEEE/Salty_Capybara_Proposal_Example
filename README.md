@@ -1,12 +1,10 @@
 # Salty Capybara Proposal
 
 ## Overview
-We have decided on using VSCode (PlatformIO) and will be using flood fill algorithm. Circuit boards will be connected to software IDE (PlatformIO) and send data received to the IDE or receive instructions to perform.
-
 The overview should be a general description of your project. This should be a high level overview of your design decisions and how you will implement them, including detailed information on how you will handle difficulties such as software and hardware integration. This should also contain information on the hardware including references to the electrical requirements of all the individual components of your system and how those requirements will be managed. You should also discuss what kind of software you will be running, undergo a brief analysis to show you have the compute power to run your software, and discuss how the software will use the inputs your hardware gives it to complete its task.
 
 OVERVIEW: 
-We have chosen to use a 4-Wheeled single PCB Micromouse. We will integrate software and hardware through uploading our code from vscode and upload the code directly to the Arduino through a usb-A to A. We will be measuring all of these hardware voltages through Arduino which can be used to set a maximum/minimum voltage output according to the amount of voltages it can take. 
+We have decided on using VSCode (PlatformIO) and will be using flood fill algorithm. Circuit boards will be connected to software IDE (PlatformIO) and send data received to the IDE or receive instructions to perform. We have chosen to use a 4-Wheeled single PCB Micromouse. We will integrate software and hardware through uploading our code from vscode and upload the code directly to the Arduino through a usb-A to A. We will be measuring all of these hardware voltages through Arduino which can be used to set a maximum/minimum voltage output according to the amount of voltages it can take. 
 
 List: 
 - Battery: 3.7 Volts(Prone to change)
