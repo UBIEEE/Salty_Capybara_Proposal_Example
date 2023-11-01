@@ -2,14 +2,14 @@
 
 ## Overview
 
-We have decided on using VSCode (PlatformIO) and will be using flood fill algorithm. Circuit boards will be connected to software IDE (PlatformIO) and send data received to the IDE or receive instructions to perform. We have chosen to use a 4-Wheeled single PCB Micromouse. We will integrate software and hardware through uploading our code from vscode and upload the code directly to the Arduino through a usb-A to A. We will be measuring all of these hardware voltages through Arduino which can be used to set a maximum/minimum voltage output according to the amount of voltages it can take. 
+We have decided on using VSCode (PlatformIO) and will be using flood fill algorithm. Circuit boards will be connected to software IDE (PlatformIO) and send data received to the IDE or receive instructions to perform. We have chosen to use a 4-Wheeled single PCB Micromouse. We will integrate software and hardware through uploading our code from vscode and upload the code directly to the Arduino(C++) through a usb-A to A. The Software team will be initially running Java since this is our stronger area and afterwards, we will be converting this code into C++. We will be measuring all of these hardware voltages through Arduino which can be used to set a maximum/minimum voltage output according to the amount of voltages it can take. Based on the inputs from the Proximity Sensor, Ultrasonic Sensor, Gyroscope sensor, Motor, this data will be sent from the Arduino to the main algorithm that will be on C++(Eventually). 
 
 List: 
-- Battery: 3.7 Volts(Prone to change)
-- Proximity Sensors: 3.3 Volts or 5 Volts 
-- Ultrasonic Sensors: 3 or 5 Volts
-- Gyroscope: 3 Volts or 5 Volts
-- Motor: 3 - 6 VDC
+- Battery: 3.7 Volts(Prone to change). Will be used to supply power to everything. 
+- Proximity Sensors: 3.3 Volts or 5 Volts. Will be used to measure how close a micromouse is to a wall.
+- Ultrasonic Sensors: 3 or 5 Volts. Similarly to Proximity, also measure how close a micromouse is to a wall. 
+- Gyroscope: 3 Volts or 5 Volts. Will be used to Help rotate the mouse
+- Motor: 3 - 6 VDC. - Will be used to power our wheels. It allows them to rotate.
 ### Software Plan
 
 The Algorithm we will be using(Floodfill): https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510
@@ -81,7 +81,7 @@ Extended plans: Build a micromouse simulator with only the bare minimum to hold 
 ## Teammates and Responsibilities
 
 - Caleb - CAD Modeling + Wiring. He will be in charge of doing the 3D-Modeling for the Arduino, Chasis and Battery. After he is done with this, he will be focusing on the wiring of the breadboard.  
-- Spencer - Will work with the hardware required as well as how its implemented.
+- Spencer - Will work with the hardware required as well as how its implemented. 
 - Ethan - I will be researching what algorithms will be fitting the Micrmouse the best. I will also be trying to process the data from the Arduino to the micromouse.
 - Jonathan (Super Not Himothy) - Make sure hardware and software work accordingly with one another. Make sure there's clear communication between hardware and software.
 - Devan - Working with Ethan on algorithms fit micromouse. I also have knowledge of Arduino to some extent so I can help with that if needed.
