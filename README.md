@@ -77,8 +77,6 @@ Extended plans: Build a micromouse simulator with only the bare minimum to hold 
 
 ## 3D Model
 
-This should be a series of images from multiple angles of a to scale model of your robot that includes all major physical components (small components such as fundamental circuit components and wires can be omitted). You may use whatever method of creating this model as long as it is to scale. We recommend using 3D CAD programs such as Autodesk Inventor or Fusion 360. You may also use physical prototyping methods such as foam-core, cardboard, clay, or even Lego. The most important thing is that you get a real-world representation of the actual size of your components in relation to each other. As such, this model does not need to be detailed, as long as the size and shape of parts are correct.  - **Hold this off for later as this will take time**
-
 ![image](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/145487784/f2ae0a72-aa0b-45d2-b1e0-8cc6366dc2cb)
 
 
