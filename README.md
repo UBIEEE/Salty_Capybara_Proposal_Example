@@ -42,11 +42,9 @@ Extended plans: Build a micromouse simulator with only the bare minimum to hold 
 ![image](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/145487784/5baa5811-c822-4a0a-adbb-7a4d6d4d6400)
 
 
-## Parts and Costs
+### Parts and Costs
 
->Note: Please try to get purchases from [SA's list of approved vendors](https://safe.sa.buffalo.edu/vendors/preferred).If you need a part that you cannot get from a company on the list it will be much more difficult to the purchase approved if at all. We recommend you check out [Adafruit](https://www.adafruit.com/) and [DigiKey](https://www.digikey.com/) for parts.
-
-### Purchases
+## Purchases
 
 | Item Name w/Link | Cost per Unit | # of Units | Total Cost |
 | ---- | ---------------- | ---- | ---------------- |
