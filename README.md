@@ -19,8 +19,7 @@ The Algorithm we will be using(Floodfill): https://medium.com/@minikiraniamayadh
 Matplotlib++ Heatmap(GUI): https://github.com/alandefreitas/matplotplusplus/blob/master/docs/COMPLETE_GALLERY.md#heatmap_1
 
 Arduino(Platform IO), C++. GUI: Can try Heatmap matplotlib. 
-- We'll discuss the sensors later 
-- Sensors have multiple inputs to the code such as bool,double,int,str types and what not. I just have to figure out what types come out of each. 
+- Sensors have multiple inputs to the code such as bool,double,int,str types and what not.
 Sensors to code: 
 - Proximity: Double?
 - Gyroscope: Double? To determine how much it should rotate by
@@ -31,17 +30,16 @@ Extended plans: Build a micromouse simulator with only the bare minimum to hold 
 ### Hardware Plan
 This should be a more detailed explanation of how your hardware will work. This should include the electrical requirements of all the individual components of your system and how those requirements will be managed. This should also include a detailed explanation of the hardware components of your system and how they will interact with each other. This should include a detailed explanation of the sensors you will be using, how they work, and how you will be using them to complete your task. This should also include specifications of your components, including the voltage/current ranges they support as well as their physical dimensions (when applicable). 
 
-- Arduino
-- 4 wheels, (Servo Motor? I guess), 
-- Battery(6 - 12V)(Probably 9V is safe),
-    - Maybe 2 of these? https://www.adafruit.com/product/1578
-- Sensors: [Proximity, Gyroscope(Idk), Motor]
-    - Proximity(IR Sensors + Ultrasonic detectors) = Can be used to determine how far a micromouse is from a wall. Can detect "wall" without bumping into a wall. (Proximities are on the side, Ultrasonic sensors are in the front)
-    - Gyroscope = Helps detect the angle of rotation
-    - Motor = To help the micromouse move(Article suggests 200RPM - 400RPM).(Higher RPM = Faster but harder to control)
-    - Diameter of Wheel: 9.5mm(Small) but we'll see what size we get.
-    - Battery =
-    - Mode of driver break out board
+- Arduino Uno
+- Wheels: Plan on using 4 - Ordered 2.6" diameter wheels - will experiment with 3d printed wheels
+- Batteries: Two lithium ion polymer batteries will be connected in series to power the arduino.
+- Sensors:
+    - Gyroscope - On the top of the micrromouse - Helps detect the angle of rotation
+    - Proximity Sensor - On the sides of the mouse - Better at detecting close range distances
+    - Ultrasonic Sensor - On the front of the mouse - Will detect further distances
+ - Motors - One for each wheel. DC motors. Gear ratio will be changed accordingly for performance.
+ - Break out board will connect the arduino to the motors.
+ - Wires will be attached to breadboard for testing but will be soldered for final mouse.
 
 ## Flowchart of System Design
 
@@ -75,13 +73,12 @@ Please include a flowchart of your system design. This should include the hardwa
 
 1. Wheels - 3D printed. - 4 Wheels 
 3. Chassis - 3D printed.
-4. Compute Casing for Arduino and battery - 3D printed.
+4. Casing for Arduino and battery - 3D printed.
 
 ### Parts on Hand
 
 1. Wires
 2. Breadboard
-3. ...
 
 ## 3D Model
 
