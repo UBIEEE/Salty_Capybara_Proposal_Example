@@ -4,6 +4,7 @@ https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
 ## Milestones
 
 ### Milestone Set 1: 11/8/23
+![Super Crift-Albar](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/cb61ea73-424d-4ce2-9563-fce2a8e23ae2)
 
 
 ### Milestone Set 2: 11/22/23
