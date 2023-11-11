@@ -5,7 +5,29 @@ https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
 
 ### Milestone Set 1: 11/8/23
 ![Super Crift-Albar](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/cb61ea73-424d-4ce2-9563-fce2a8e23ae2)
-
+#define echoPin\
+	3
+#define trigPin\
+	5
+long duration;
+void setup()
+{
+  pinMode(echoPin,OUTPUT);
+  pinMode(trigPin,INPUT);
+  delay(500);
+  Serial.begin(9600);
+}
+void loop()
+{
+  digitalWrite(trigPin,LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin,HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin,LOW);
+  delayMicroseconds(10);
+  duration = pulseIn(echoPin, HIGH);
+  Serial.println(duration);
+}
 
 ### Milestone Set 2: 11/22/23
 * Get the algorithm working in simulation. 
