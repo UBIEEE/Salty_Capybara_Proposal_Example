@@ -5,10 +5,6 @@ https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
 
 ### Milestone Set 1: 11/8/23
 
-* Get GPIO output from the microcontroller to light up LEDs on a breadboard. 
-* Get GPIO input from the microcontroller to read button presses on a breadboard.
-* Get GPIO input from the microcontroller to read sensor data from the ultrasonic sensors.
-* Initial 3D Model for chassis completed.
 
 ### Milestone Set 2: 11/22/23
 * Get the algorithm working in simulation. 
