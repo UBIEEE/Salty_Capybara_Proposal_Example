@@ -4,6 +4,9 @@ https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
 ## Milestones
 
 ### Milestone Set 1: 11/8/23
+Worked on Arduino Ultrasonic sensor. 
+Sensor can:
+- Detect how far an object is based on where it is.
 ![Super Crift-Albar](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/cb61ea73-424d-4ce2-9563-fce2a8e23ae2)
 
 
