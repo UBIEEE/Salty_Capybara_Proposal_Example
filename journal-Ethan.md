@@ -8,7 +8,9 @@ Worked on Arduino Ultrasonic sensor.
 Sensor can:
 - Detect how far an object is based on where it is.
 ![Super Crift-Albar](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/cb61ea73-424d-4ce2-9563-fce2a8e23ae2)
-- I need to work on GPIO Output
+- GPIO Output
+- ![Exquisite Maimu-Esboo](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/c2024f23-c002-4e81-bd79-dea80b57934c)
+
 
 ### Milestone Set 2: 11/22/23
 * Get the algorithm working in simulation. 
