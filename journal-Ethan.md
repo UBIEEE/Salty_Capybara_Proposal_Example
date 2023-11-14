@@ -1,6 +1,6 @@
 ### IEEE Offficial Rules: 
-https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
-https://attend.ieee.org/r2sac-2020/wp-content/uploads/sites/175/2020/01/MicroMouse_Rules_2020.pdf
+First Rules: https://ewh.ieee.org/sb/columbus/devry/sacFiles/MicromouseRules.pdf
+More Rules(The same thigg): https://attend.ieee.org/r2sac-2020/wp-content/uploads/sites/175/2020/01/MicroMouse_Rules_2020.pdf
 ## Milestones
 
 ### Milestone Set 1: 11/8/23
