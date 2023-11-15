@@ -13,10 +13,12 @@ Sensor can:
 
 
 ### Milestone Set 2: 11/22/23
-* Get the algorithm working in simulation. 
-* Positioning algorithm can properly visualize mouse in simulation.
-* Can make the motors spin from the battery.
-
+Week 1:  
+* Positioning algorithm can properly visualize mouse in simulation. <-- Working on this.
+* Notes for next week: Find out what a positioning Algorithm is. 
+Week 2:
+* 
+* 
 ### Milestone Set 3: 11/29/23
 * Microcontroller can control the motors. 
 * Microcontroller can read sensor data and calculate the position of the mouse.
