@@ -18,7 +18,7 @@ Week 1:
 * Notes for next week: Find out what a positioning Algorithm is. 
 Week 2:
 * 
-* 
+* Can make the motors spin from the battery. <-- Bro what does this mean because I dont think its what I'm thinking it is...
 ### Milestone Set 3: 11/29/23
 * Microcontroller can control the motors. 
 * Microcontroller can read sensor data and calculate the position of the mouse.
