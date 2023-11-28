@@ -22,7 +22,7 @@ Week 2:
 
 ### Milestone Set 3: 11/29/23
 * Microcontroller can control the motors.
-![Incredible Robo-Waasa](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/b4377c7c-965c-4dc9-a8ca-659fed16781d)
+- ![Incredible Robo-Waasa](https://github.com/UBIEEE/Salty_Capybara_Proposal_Example/assets/125399829/b4377c7c-965c-4dc9-a8ca-659fed16781d)
 
 * Microcontroller can read sensor data and calculate the position of the mouse.
 * Microcontroller can run the algorithm.
