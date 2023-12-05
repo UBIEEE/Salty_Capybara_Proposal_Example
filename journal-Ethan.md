@@ -23,11 +23,11 @@ Week 1:
 
 * Microcontroller can read sensor data and calculate the position of the mouse.
 * Microcontroller can run the algorithm.
-* 
   
 ### Milestone Set 4: Over break
-* TBD: Bussin
-
+* Start to sned over the data from one end to another. 
+* Arduino --> C++
+* C++ --> Arduino
 ### Milestone Set 5: 1/10/24
 * Mouse can move in a straight line a stop when it reaches an obstacle.
 * Mouse can turn 90 degrees when told to by the algorithm.
