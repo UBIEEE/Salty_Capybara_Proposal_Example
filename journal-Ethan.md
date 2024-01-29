@@ -33,7 +33,10 @@ Week 1:
 * Mouse can turn 90 degrees when told to by the algorithm.
 * Mouse can move for 10 minutes straight. 
 * Mouse can execute different algorithms based on user inputs from physical buttons on the mouse. 
-
+* Lost my Tinkercad account 💀
+* Am now trying to figure out how to push the Data from Arduino Motors to itself.
+* Arduino Parts(Still on this part trying to figure out how to push the data together.)-> Arduino Motors -> C++ -> Get the mouse working!
+* ^^This is
 ### Milestone Set 6: 1/24/24
 * Mouse can move through a maze randomly without hitting walls.
 
