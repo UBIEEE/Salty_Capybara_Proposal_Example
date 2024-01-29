@@ -36,7 +36,7 @@ Week 1:
 * Lost my Tinkercad account 💀
 * Am now trying to figure out how to push the Data from Arduino Motors to itself.
 * Arduino Parts(Still on this part trying to figure out how to push the data together.)-> Arduino Motors -> C++ -> Get the mouse working!
-* ^^This is
+* For starters, try looking on `Serial.read()` Thsi function can take in inputs.
 ### Milestone Set 6: 1/24/24
 * Mouse can move through a maze randomly without hitting walls.
 
